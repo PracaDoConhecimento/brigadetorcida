@@ -45,12 +45,18 @@
 
             <h2>A história de Pietra</h2>
             
-            <div class="hq">           
+            <div class="hq">  
+                <div id="1" class="hq_pag">
+                    <img src="img/fotonovela_1.png" />
+                </div>
 
+                <div id="2" class="hq_pag">
+                    <img src="img/fotonovela_2.png" />
+                </div>
             </div>
 
             <div class="download">
-                <a href="#">Curtiu esta história? <br> Clique para fazer download</a>
+                <a href="zip/pietra.zip">Curtiu esta história? <br> Clique para fazer download</a>
             </div>
 
         </div>
@@ -171,6 +177,24 @@
 
         <div id="creditos">
             <img src="img/rodape-assinatura.png" />
+
+
+            <!-- redes sociais? -->
+            <div class="pull-right" style="text-align:right;">
+                <div class="redes_sociais" style="margin:10px 0;">
+                    <!-- <a class="soboo soboo-marker" data-hover="none" data-model="two-colors" data-orientation="horizontal" data-services="twitter facebook linkedin googleplus pinterest tumblr digg domelhor dihitt myspace google favoritos email mais" data-userid="15992" href="http://www.seomaster.com.br/bookmark.html" id="horizontal"></a> -->
+                        <span class='st_facebook' displayText='Facebook'></span>
+                        <span class='st_googleplus' displayText='Google +'></span>
+                        <span class='st_twitter' displayText='Tweet'></span>
+                        <span class='st_sharethis' displayText='ShareThis'></span>
+                        <span class='st_email' displayText='Email'></span>
+                </div>            
+
+                <div  style="color:#000;">
+                    <small>O código desta site está disponível no <a href="https://github.com/felipefernandes/brigadetorcida" target="_blank" style="color:#000;"><b>GitHub</b></a>.</small>
+                </div>
+            </div>
+
         </div>
 
     </div>

@@ -7,6 +7,7 @@
     <script type="text/javascript" src="js/jquery.inview.js"></script>     
     <script type="text/javascript" src="js/jquery.scrollTo-1.4.3.1-min.js"></script>   
     <script type="text/javascript" src="js/jquery.localscroll-1.2.7-min.js"></script>   
+    <script type="text/javascript" src="js/sound.js"></script>  
 
     <script src="js/main.js"></script>
 

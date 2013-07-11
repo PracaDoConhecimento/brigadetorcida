@@ -16,6 +16,17 @@
     <link rel="stylesheet/less" type="text/css" href="less/main.less" />
 
     <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+
+    <!-- SOOBOO -->
+    <!-- <script type='text/javascript' src="js/soboo2.js"></script> -->
+    <!-- END -->        
+
+    <!-- SHARE THIS -->
+    <script type="text/javascript">var switchTo5x=true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script> 
+    <script type="text/javascript">stLight.options({publisher: "64148ad7-f8a6-43e0-a6b1-e4e3099d002e", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+    <!-- END -->         
+
 </head>
 
 <body data-spy="scroll" data-target=".navbar">
